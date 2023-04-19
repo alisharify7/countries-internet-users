@@ -92,6 +92,7 @@ show_plot(x=x, y=y , x_label="countries ", y_label="internet users", title="inte
 
 
 
-print(tabulate.tabulate(sorted_data, tablefmt="grid"))
+# for print rating result
+# print(tabulate.tabulate(sorted_data, tablefmt="grid"))
 
 # data sources: https://restcountries.com/v3.1/all and wiki pedia :)
