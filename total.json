@@ -1,0 +1,1286 @@
+[
+    {
+      "name": " China",
+      "internet": "1,051,140,000",
+      "p": "73.7%",
+      "population": "1,425,893,465"
+    },
+    {
+      "name": " India",
+      "internet": "836,860,000",
+      "p": "59.5%",
+      "population": "1,407,563,842"
+    },
+    {
+      "name": " United States",
+      "internet": "307,200,000",
+      "p": "91.2%",
+      "population": "336,997,624"
+    },
+    {
+      "name": " Indonesia",
+      "internet": "196,000,000",
+      "p": "71.6%",
+      "population": "273,753,191"
+    },
+    {
+      "name": " Brazil",
+      "internet": "165,300,000",
+      "p": "77.1%",
+      "population": "214,326,223"
+    },
+    {
+      "name": " Nigeria",
+      "internet": "136,203,231",
+      "p": "63.8%",
+      "population": "213,401,323"
+    },
+    {
+      "name": " Pakistan",
+      "internet": "130,000,000",
+      "p": "60.8%",
+      "population": "213,756,286"
+    },
+    {
+      "name": " Russia",
+      "internet": "129,800,000",
+      "p": "89.5%",
+      "population": "145,102,755"
+    },
+    {
+      "name": " Bangladesh",
+      "internet": "126,210,000",
+      "p": "75.9%",
+      "population": "166,303,498"
+    },
+    {
+      "name": " Japan",
+      "internet": "117,400,000",
+      "p": "94.2%",
+      "population": "124,612,530"
+    },
+    {
+      "name": " Mexico",
+      "internet": "92,010,000",
+      "p": "71.3%",
+      "population": "128,972,439"
+    },
+    {
+      "name": " Iran",
+      "internet": "78,086,663",
+      "p": "88.8%",
+      "population": "87,923,432"
+    },
+    {
+      "name": " Germany",
+      "internet": "77,794,405",
+      "p": "93.3%",
+      "population": "83,408,554"
+    },
+    {
+      "name": " Philippines",
+      "internet": "73,003,313",
+      "p": "64.1%",
+      "population": "113,880,328"
+    },
+    {
+      "name": " Turkey",
+      "internet": "69,945,905",
+      "p": "82.5%",
+      "population": "84,775,404"
+    },
+    {
+      "name": " Vietnam",
+      "internet": "68,172,134",
+      "p": "69.9%",
+      "population": "97,468,029"
+    },
+    {
+      "name": " United Kingdom",
+      "internet": "65,001,016",
+      "p": "96.6%",
+      "population": "67,281,039"
+    },
+    {
+      "name": " France",
+      "internet": "59,470,000",
+      "p": "92.2%",
+      "population": "64,531,444"
+    },
+    {
+      "name": " Egypt",
+      "internet": "54,740,141",
+      "p": "50.1%",
+      "population": "109,262,178"
+    },
+    {
+      "name": " South Korea",
+      "internet": "49,421,084",
+      "p": "95.4%",
+      "population": "51,830,139"
+    },
+    {
+      "name": " Spain",
+      "internet": "42,400,756",
+      "p": "89.3%",
+      "population": "47,486,935"
+    },
+    {
+      "name": " Thailand",
+      "internet": "54,043,108",
+      "p": "75.5%",
+      "population": "71,601,103"
+    },
+    {
+      "name": " Italy",
+      "internet": "50,540,000",
+      "p": "85.3%",
+      "population": "59,240,329"
+    },
+    {
+      "name": " Poland",
+      "internet": "34,697,848",
+      "p": "90.6%",
+      "population": "38,307,726"
+    },
+    {
+      "name": " Canada",
+      "internet": "33,950,632",
+      "p": "89.0%",
+      "population": "38,155,012"
+    },
+    {
+      "name": " Argentina",
+      "internet": "33,561,876",
+      "p": "74.1%",
+      "population": "45,276,780"
+    },
+    {
+      "name": " South Africa",
+      "internet": "31,858,027",
+      "p": "53.6%",
+      "population": "59,392,255"
+    },
+    {
+      "name": " Colombia",
+      "internet": "30,548,252",
+      "p": "59.3%",
+      "population": "51,516,562"
+    },
+    {
+      "name": " Saudi Arabia",
+      "internet": "27,048,861",
+      "p": "75.2%",
+      "population": "35,950,396"
+    },
+    {
+      "name": " Malaysia",
+      "internet": "25,343,685",
+      "p": "75.5%",
+      "population": "33,573,874"
+    },
+    {
+      "name": " Ukraine",
+      "internet": "32,900,000",
+      "p": "75.6%",
+      "population": "43,531,422"
+    },
+    {
+      "name": " Algeria",
+      "internet": "32,090,000",
+      "p": "72.6%",
+      "population": "44,177,969"
+    },
+    {
+      "name": " Myanmar",
+      "internet": "23,650,000",
+      "p": "44.0%",
+      "population": "53,798,084"
+    },
+    {
+      "name": " Morocco",
+      "internet": "22,072,765",
+      "p": "59.5%",
+      "population": "37,076,584"
+    },
+    {
+      "name": " Taiwan",
+      "internet": "21,920,626",
+      "p": "91.9%",
+      "population": "23,859,912"
+    },
+    {
+      "name": " Australia",
+      "internet": "21,159,515",
+      "p": "81.6%",
+      "population": "25,921,089"
+    },
+    {
+      "name": " Venezuela",
+      "internet": "20,564,451",
+      "p": "72.9%",
+      "population": "28,199,867"
+    },
+    {
+      "name": " Ethiopia",
+      "internet": "19,543,075",
+      "p": "16.2%",
+      "population": "120,283,026"
+    },
+    {
+      "name": " Iraq",
+      "internet": "18,892,351",
+      "p": "43.4%",
+      "population": "43,533,592"
+    },
+    {
+      "name": " Uzbekistan",
+      "internet": "16,692,456",
+      "p": "49.0%",
+      "population": "34,081,449"
+    },
+    {
+      "name": " Netherlands",
+      "internet": "15,877,494",
+      "p": "90.7%",
+      "population": "17,501,696"
+    },
+    {
+      "name": " Peru",
+      "internet": "15,674,241",
+      "p": "46.5%",
+      "population": "33,715,471"
+    },
+    {
+      "name": " Chile",
+      "internet": "14,864,456",
+      "p": "76.3%",
+      "population": "19,493,184"
+    },
+    {
+      "name": " Kazakhstan",
+      "internet": "13,913,699",
+      "p": "72.5%",
+      "population": "19,196,465"
+    },
+    {
+      "name": " Romania",
+      "internet": "12,545,558",
+      "p": "64.9%",
+      "population": "19,328,560"
+    },
+    {
+      "name": " Sudan",
+      "internet": "12,512,639",
+      "p": "27.4%",
+      "population": "45,657,202"
+    },
+    {
+      "name": " Ghana",
+      "internet": "15,065,541",
+      "p": "45.9%",
+      "population": "32,833,031"
+    },
+    {
+      "name": " Côte d'Ivoire",
+      "internet": "10,650,818",
+      "p": "38.8%",
+      "population": "27,478,249"
+    },
+    {
+      "name": " Uganda",
+      "internet": "10,162,807",
+      "p": "22.2%",
+      "population": "45,853,778"
+    },
+    {
+      "name": " Belgium",
+      "internet": "10,021,242",
+      "p": "86.3%",
+      "population": "11,611,419"
+    },
+    {
+      "name": " Sweden",
+      "internet": "9,554,907",
+      "p": "91.3%",
+      "population": "10,467,097"
+    },
+    {
+      "name": " Ecuador",
+      "internet": "9,521,056",
+      "p": "53.5%",
+      "population": "17,797,737"
+    },
+    {
+      "name": " Tanzania",
+      "internet": "30,000,000",
+      "p": "47.2%",
+      "population": "63,588,334"
+    },
+    {
+      "name": " United Arab Emirates",
+      "internet": "8,913,217",
+      "p": "95.2%",
+      "population": "9,365,145"
+    },
+    {
+      "name": " Kenya",
+      "internet": "8,861,485",
+      "p": "16.7%",
+      "population": "53,005,614"
+    },
+    {
+      "name": " Czech Republic",
+      "internet": "8,358,728",
+      "p": "79.5%",
+      "population": "10,510,751"
+    },
+    {
+      "name": " Switzerland",
+      "internet": "7,942,864",
+      "p": "91.4%",
+      "population": "8,691,406"
+    },
+    {
+      "name": " Greece",
+      "internet": "7,923,438",
+      "p": "75.9%",
+      "population": "10,445,365"
+    },
+    {
+      "name": " Azerbaijan",
+      "internet": "7,763,795",
+      "p": "75.3%",
+      "population": "10,312,992"
+    },
+    {
+      "name": " Austria",
+      "internet": "7,681,957",
+      "p": "86.1%",
+      "population": "8,922,082"
+    },
+    {
+      "name": " Portugal",
+      "internet": "7,622,142",
+      "p": "74.1%",
+      "population": "10,290,103"
+    },
+    {
+      "name": " Yemen",
+      "internet": "7,548,512",
+      "p": "22.9%",
+      "population": "32,981,641"
+    },
+    {
+      "name": " Hungary",
+      "internet": "7,461,297",
+      "p": "76.8%",
+      "population": "9,709,786"
+    },
+    {
+      "name": " Sri Lanka",
+      "internet": "7,121,116",
+      "p": "32.7%",
+      "population": "21,773,441"
+    },
+    {
+      "name": " Belarus",
+      "internet": "7,048,231",
+      "p": "73.6%",
+      "population": "9,578,167"
+    },
+    {
+      "name": " Democratic Republic of the Congo",
+      "internet": "7,011,507",
+      "p": "7.3%",
+      "population": "95,894,118"
+    },
+    {
+      "name": " Dominican Republic",
+      "internet": "6,997,472",
+      "p": "62.9%",
+      "population": "11,117,873"
+    },
+    {
+      "name": " Guatemala",
+      "internet": "11,750,000",
+      "p": "66.7%",
+      "population": "17,608,483"
+    },
+    {
+      "name": " Israel",
+      "internet": "6,788,737",
+      "p": "76.3%",
+      "population": "8,900,059"
+    },
+    {
+      "name": " Hong Kong, China",
+      "internet": "6,585,678",
+      "p": "87.9%",
+      "population": "7,494,578"
+    },
+    {
+      "name": " Jordan",
+      "internet": "6,480,202",
+      "p": "58.1%",
+      "population": "11,148,278"
+    },
+    {
+      "name": " Tunisia",
+      "internet": "6,400,330",
+      "p": "52.2%",
+      "population": "12,262,946"
+    },
+    {
+      "name": " Nepal",
+      "internet": "16,190,000",
+      "p": "53.9%",
+      "population": "30,034,989"
+    },
+    {
+      "name": " Syria",
+      "internet": "6,257,430",
+      "p": "29.3%",
+      "population": "21,324,367"
+    },
+    {
+      "name": " Serbia",
+      "internet": "6,182,411",
+      "p": "84.7%",
+      "population": "7,296,769"
+    },
+    {
+      "name": " Mozambique",
+      "internet": "6,162,217",
+      "p": "19.2%",
+      "population": "32,077,072"
+    },
+    {
+      "name": " Cuba",
+      "internet": "5,638,956",
+      "p": "50.1%",
+      "population": "11,256,372"
+    },
+    {
+      "name": " Cameroon",
+      "internet": "5,580,465",
+      "p": "20.5%",
+      "population": "27,198,628"
+    },
+    {
+      "name": " Denmark",
+      "internet": "5,407,278",
+      "p": "92.4%",
+      "population": "5,854,240"
+    },
+    {
+      "name": " Cambodia",
+      "internet": "5,441,827",
+      "p": "32.8%",
+      "population": "16,589,023"
+    },
+    {
+      "name": " Norway",
+      "internet": "5,120,225",
+      "p": "94.8%",
+      "population": "5,403,021"
+    },
+    {
+      "name": " Bolivia",
+      "internet": "4,843,916",
+      "p": "40.1%",
+      "population": "12,079,472"
+    },
+    {
+      "name": " Finland",
+      "internet": "4,831,170",
+      "p": "87.3%",
+      "population": "5,535,992"
+    },
+    {
+      "name": " Singapore",
+      "internet": "4,821,119",
+      "p": "81.1%",
+      "population": "5,941,060"
+    },
+    {
+      "name": " Zambia",
+      "internet": "4,760,715",
+      "p": "24.4%",
+      "population": "19,473,125"
+    },
+    {
+      "name": " Lebanon",
+      "internet": "4,755,187",
+      "p": "85.0%",
+      "population": "5,592,631"
+    },
+    {
+      "name": " Senegal",
+      "internet": "4,698,108",
+      "p": "27.8%",
+      "population": "16,876,720"
+    },
+    {
+      "name": " Bulgaria",
+      "internet": "4,492,326",
+      "p": "65.2%",
+      "population": "6,885,868"
+    },
+    {
+      "name": " Zimbabwe",
+      "internet": "4,472,992",
+      "p": "28.0%",
+      "population": "15,993,524"
+    },
+    {
+      "name": " Slovakia",
+      "internet": "4,446,926",
+      "p": "81.6%",
+      "population": "5,447,622"
+    },
+    {
+      "name": " New Zealand",
+      "internet": "4,273,353",
+      "p": "83.3%",
+      "population": "5,129,727"
+    },
+    {
+      "name": " Angola",
+      "internet": "4,271,053",
+      "p": "12.4%",
+      "population": "34,503,774"
+    },
+    {
+      "name": " Paraguay",
+      "internet": "4,160,340",
+      "p": "62.1%",
+      "population": "6,703,799"
+    },
+    {
+      "name": " Afghanistan",
+      "internet": "4,068,194",
+      "p": "10.1%",
+      "population": "40,099,462"
+    },
+    {
+      "name": " Kuwait",
+      "internet": "4,053,797",
+      "p": "95.4%",
+      "population": "4,250,114"
+    },
+    {
+      "name": " Ireland",
+      "internet": "4,024,552",
+      "p": "80.7%",
+      "population": "4,986,526"
+    },
+    {
+      "name": " Oman",
+      "internet": "3,717,818",
+      "p": "82.2%",
+      "population": "4,520,471"
+    },
+    {
+      "name": " Costa Rica",
+      "internet": "3,511,549",
+      "p": "68.1%",
+      "population": "5,153,957"
+    },
+    {
+      "name": " Palestine",
+      "internet": "3,208,312",
+      "p": "62.5%",
+      "population": "5,133,392"
+    },
+    {
+      "name": " Moldova",
+      "internet": "3,083,783",
+      "p": "100.7%",
+      "population": "3,061,506"
+    },
+    {
+      "name": " Burkina Faso",
+      "internet": "3,047,909",
+      "p": "13.8%",
+      "population": "22,100,683"
+    },
+    {
+      "name": " Honduras",
+      "internet": "2,977,793",
+      "p": "29.0%",
+      "population": "10,278,345"
+    },
+    {
+      "name": " Croatia",
+      "internet": "2,811,056",
+      "p": "69.2%",
+      "population": "4,060,135"
+    },
+    {
+      "name": " Puerto Rico (U.S.)",
+      "internet": "2,664,928",
+      "p": "81.8%",
+      "population": "3,256,028"
+    },
+    {
+      "name": " Rwanda",
+      "internet": "2,657,770",
+      "p": "19.7%",
+      "population": "13,461,888"
+    },
+    {
+      "name": " Malawi",
+      "internet": "2,566,126",
+      "p": "12.9%",
+      "population": "19,889,742"
+    },
+    {
+      "name": " Qatar",
+      "internet": "2,532,059",
+      "p": "94.2%",
+      "population": "2,688,235"
+    },
+    {
+      "name": " Madagascar",
+      "internet": "2,505,948",
+      "p": "8.7%",
+      "population": "28,915,653"
+    },
+    {
+      "name": " Bosnia and Herzegovina",
+      "internet": "2,320,000",
+      "p": "70.9%",
+      "population": "3,270,943"
+    },
+    {
+      "name": " Panama",
+      "internet": "2,371,852",
+      "p": "54.5%",
+      "population": "4,351,267"
+    },
+    {
+      "name": " Georgia",
+      "internet": "3,446,533",
+      "p": "91.7%",
+      "population": "3,757,980"
+    },
+    {
+      "name": " Uruguay",
+      "internet": "2,910,000",
+      "p": "84.9%",
+      "population": "3,426,260"
+    },
+    {
+      "name": " Mali",
+      "internet": "2,358,540",
+      "p": "10.8%",
+      "population": "21,904,983"
+    },
+    {
+      "name": " Kyrgyzstan",
+      "internet": "2,309,235",
+      "p": "35.4%",
+      "population": "6,527,743"
+    },
+    {
+      "name": " Lithuania",
+      "internet": "2,243,448",
+      "p": "80.5%",
+      "population": "2,786,651"
+    },
+    {
+      "name": " Niger",
+      "internet": "2,194,985",
+      "p": "8.7%",
+      "population": "25,252,722"
+    },
+    {
+      "name": " Albania",
+      "internet": "2,105,339",
+      "p": "73.7%",
+      "population": "2,854,710"
+    },
+    {
+      "name": " Armenia",
+      "internet": "2,043,110",
+      "p": "73.2%",
+      "population": "2,790,974"
+    },
+    {
+      "name": " El Salvador",
+      "internet": "1,993,079",
+      "p": "31.6%",
+      "population": "6,314,167"
+    },
+    {
+      "name": " Tajikistan",
+      "internet": "1,959,127",
+      "p": "20.1%",
+      "population": "9,750,064"
+    },
+    {
+      "name": " Laos",
+      "internet": "1,749,517",
+      "p": "23.6%",
+      "population": "7,425,057"
+    },
+    {
+      "name": " Nicaragua",
+      "internet": "1,732,218",
+      "p": "25.3%",
+      "population": "6,850,540"
+    },
+    {
+      "name": " Slovenia",
+      "internet": "1,640,893",
+      "p": "77.4%",
+      "population": "2,119,410"
+    },
+    {
+      "name": " North Macedonia",
+      "internet": "1,589,659",
+      "p": "75.6%",
+      "population": "2,103,330"
+    },
+    {
+      "name": " Latvia",
+      "internet": "1,585,471",
+      "p": "84.6%",
+      "population": "1,873,919"
+    },
+    {
+      "name": " Benin",
+      "internet": "1,578,008",
+      "p": "12.1%",
+      "population": "12,996,895"
+    },
+    {
+      "name": " Guinea",
+      "internet": "1,449,758",
+      "p": "10.7%",
+      "population": "13,531,906"
+    },
+    {
+      "name": " Bahrain",
+      "internet": "1,431,090",
+      "p": "97.8%",
+      "population": "1,463,265"
+    },
+    {
+      "name": " Jamaica",
+      "internet": "1,409,888",
+      "p": "49.9%",
+      "population": "2,827,695"
+    },
+    {
+      "name": " Libya",
+      "internet": "1,387,116",
+      "p": "20.6%",
+      "population": "6,735,277"
+    },
+    {
+      "name": " Haiti",
+      "internet": "1,353,986",
+      "p": "11.8%",
+      "population": "11,447,569"
+    },
+    {
+      "name": " Turkmenistan",
+      "internet": "1,223,591",
+      "p": "19.3%",
+      "population": "6,341,855"
+    },
+    {
+      "name": " Estonia",
+      "internet": "1,153,786",
+      "p": "86.8%",
+      "population": "1,328,701"
+    },
+    {
+      "name": " Trinidad and Tobago",
+      "internet": "1,058,744",
+      "p": "69.4%",
+      "population": "1,525,663"
+    },
+    {
+      "name": " Gabon",
+      "internet": "1,040,000",
+      "p": "44.4%",
+      "population": "2,341,179"
+    },
+    {
+      "name": " South Sudan",
+      "internet": "1,003,542",
+      "p": "9.3%",
+      "population": "10,748,272"
+    },
+    {
+      "name": " Sierra Leone",
+      "internet": "1,000,575",
+      "p": "11.9%",
+      "population": "8,420,641"
+    },
+    {
+      "name": " Chad",
+      "internet": "968,500",
+      "p": "5.6%",
+      "population": "17,179,740"
+    },
+    {
+      "name": " Togo",
+      "internet": "963,795",
+      "p": "11.1%",
+      "population": "8,644,829"
+    },
+    {
+      "name": " Cyprus",
+      "internet": "952,369",
+      "p": "76.5%",
+      "population": "1,244,188"
+    },
+    {
+      "name": " Botswana",
+      "internet": "948,977",
+      "p": "36.7%",
+      "population": "2,588,423"
+    },
+    {
+      "name": " Namibia",
+      "internet": "933,450",
+      "p": "36.9%",
+      "population": "2,530,151"
+    },
+    {
+      "name": " Papua New Guinea",
+      "internet": "924,955",
+      "p": "9.3%",
+      "population": "9,949,437"
+    },
+    {
+      "name": " Mauritania",
+      "internet": "919,398",
+      "p": "19.9%",
+      "population": "4,614,974"
+    },
+    {
+      "name": " Mongolia",
+      "internet": "729,236",
+      "p": "21.8%",
+      "population": "3,347,782"
+    },
+    {
+      "name": " Mauritius",
+      "internet": "702,911",
+      "p": "54.1%",
+      "population": "1,298,915"
+    },
+    {
+      "name": " Lesotho",
+      "internet": "665,312",
+      "p": "29.2%",
+      "population": "2,281,454"
+    },
+    {
+      "name": " Burundi",
+      "internet": "607,311",
+      "p": "4.8%",
+      "population": "12,551,213"
+    },
+    {
+      "name": " Luxembourg",
+      "internet": "570,794",
+      "p": "89.3%",
+      "population": "639,321"
+    },
+    {
+      "name": " Djibouti",
+      "internet": "532,849",
+      "p": "48.2%",
+      "population": "1,105,557"
+    },
+    {
+      "name": " Macau, China",
+      "internet": "517,789",
+      "p": "75.4%",
+      "population": "686,607"
+    },
+    {
+      "name": " Congo",
+      "internet": "455,055",
+      "p": "7.8%",
+      "population": "5,835,806"
+    },
+    {
+      "name": " Fiji",
+      "internet": "452,479",
+      "p": "48.9%",
+      "population": "924,610"
+    },
+    {
+      "name": " Montenegro",
+      "internet": "505,055",
+      "p": "80.4%",
+      "population": "627,859"
+    },
+    {
+      "name": " Gambia",
+      "internet": "416,753",
+      "p": "15.8%",
+      "population": "2,639,916"
+    },
+    {
+      "name": " Eswatini",
+      "internet": "414,278",
+      "p": "34.7%",
+      "population": "1,192,271"
+    },
+    {
+      "name": " Brunei",
+      "internet": "406,705",
+      "p": "91.3%",
+      "population": "445,373"
+    },
+    {
+      "name": " Bhutan",
+      "internet": "388,541",
+      "p": "50.0%",
+      "population": "777,486"
+    },
+    {
+      "name": " Liberia",
+      "internet": "377,607",
+      "p": "7.3%",
+      "population": "5,193,416"
+    },
+    {
+      "name": " East Timor",
+      "internet": "356,356",
+      "p": "27.0%",
+      "population": "1,320,942"
+    },
+    {
+      "name": " Malta",
+      "internet": "344,970",
+      "p": "65.5%",
+      "population": "526,748"
+    },
+    {
+      "name": " Bahamas",
+      "internet": "336,057",
+      "p": "82.4%",
+      "population": "407,906"
+    },
+    {
+      "name": " Equatorial Guinea",
+      "internet": "332,642",
+      "p": "20.4%",
+      "population": "1,634,466"
+    },
+    {
+      "name": " Iceland",
+      "internet": "329,196",
+      "p": "88.9%",
+      "population": "370,335"
+    },
+    {
+      "name": " Cabo Verde",
+      "internet": "312,315",
+      "p": "53.1%",
+      "population": "587,925"
+    },
+    {
+      "name": " Somalia",
+      "internet": "294,851",
+      "p": "1.7%",
+      "population": "17,065,581"
+    },
+    {
+      "name": " Guyana",
+      "internet": "290,375",
+      "p": "36.1%",
+      "population": "804,567"
+    },
+    {
+      "name": " Suriname",
+      "internet": "275,785",
+      "p": "45.0%",
+      "population": "612,985"
+    },
+    {
+      "name": " Maldives",
+      "internet": "275,717",
+      "p": "52.9%",
+      "population": "521,457"
+    },
+    {
+      "name": " Barbados",
+      "internet": "233,604",
+      "p": "83.1%",
+      "population": "281,200"
+    },
+    {
+      "name": " New Caledonia",
+      "internet": "226,557",
+      "p": "78.7%",
+      "population": "287,800"
+    },
+    {
+      "name": " French Polynesia",
+      "internet": "205,746",
+      "p": "67.7%",
+      "population": "304,032"
+    },
+    {
+      "name": " Central African Republic",
+      "internet": "202,204",
+      "p": "3.7%",
+      "population": "5,457,154"
+    },
+    {
+      "name": " Belize",
+      "internet": "176,400",
+      "p": "44.1%",
+      "population": "400,031"
+    },
+    {
+      "name": " Guam",
+      "internet": "132,221",
+      "p": "77.5%",
+      "population": "170,534"
+    },
+    {
+      "name": " Aruba (Netherlands)",
+      "internet": "102,285",
+      "p": "96.0%",
+      "population": "106,537"
+    },
+    {
+      "name": " Saint Lucia",
+      "internet": "90,889",
+      "p": "50.6%",
+      "population": "179,651"
+    },
+    {
+      "name": " Antigua and Barbuda",
+      "internet": "77,529",
+      "p": "83.2%",
+      "population": "93,219"
+    },
+    {
+      "name": " Andorra",
+      "internet": "76,095",
+      "p": "96.3%",
+      "population": "79,034"
+    },
+    {
+      "name": " Guinea-Bissau",
+      "internet": "73,148",
+      "p": "3.5%",
+      "population": "2,060,721"
+    },
+    {
+      "name": " Solomon Islands",
+      "internet": "72,872",
+      "p": "10.3%",
+      "population": "707,851"
+    },
+    {
+      "name": " Saint Vincent and the Grenadines",
+      "internet": "72,048",
+      "p": "69.1%",
+      "population": "104,332"
+    },
+    {
+      "name": " Vanuatu",
+      "internet": "71,050",
+      "p": "22.3%",
+      "population": "319,137"
+    },
+    {
+      "name": " Comoros",
+      "internet": "69,020",
+      "p": "8.4%",
+      "population": "821,625"
+    },
+    {
+      "name": " U.S. Virgin Islands",
+      "internet": "67,535",
+      "p": "67.5%",
+      "population": "100,091"
+    },
+    {
+      "name": " Eritrea",
+      "internet": "66,402",
+      "p": "1.8%",
+      "population": "3,620,312"
+    },
+    {
+      "name": " Samoa",
+      "internet": "66,023",
+      "p": "30.2%",
+      "population": "218,764"
+    },
+    {
+      "name": " Grenada",
+      "internet": "63,692",
+      "p": "51.1%",
+      "population": "124,610"
+    },
+    {
+      "name": " São Tomé and Príncipe",
+      "internet": "61,155",
+      "p": "27.4%",
+      "population": "223,107"
+    },
+    {
+      "name": " Bermuda",
+      "internet": "60,349",
+      "p": "94.0%",
+      "population": "64,185"
+    },
+    {
+      "name": " Seychelles",
+      "internet": "55,677",
+      "p": "52.3%",
+      "population": "106,471"
+    },
+    {
+      "name": " Dominica",
+      "internet": "51,467",
+      "p": "71.1%",
+      "population": "72,412"
+    },
+    {
+      "name": " Cayman Islands",
+      "internet": "49,906",
+      "p": "73.2%",
+      "population": "68,136"
+    },
+    {
+      "name": " Faroe Islands",
+      "internet": "48,097",
+      "p": "90.9%",
+      "population": "52,889"
+    },
+    {
+      "name": " Saint Kitts and Nevis",
+      "internet": "44,669",
+      "p": "93.8%",
+      "population": "47,606"
+    },
+    {
+      "name": " Tonga",
+      "internet": "44,558",
+      "p": "42.0%",
+      "population": "106,017"
+    },
+    {
+      "name": " Greenland",
+      "internet": "39,242",
+      "p": "69.8%",
+      "population": "56,243"
+    },
+    {
+      "name": " Jersey",
+      "internet": "38,958",
+      "p": "35.5%",
+      "population": "109,618"
+    },
+    {
+      "name": " Monaco",
+      "internet": "37,553",
+      "p": "102.4%",
+      "population": "36,686"
+    },
+    {
+      "name": " Micronesia",
+      "internet": "37,257",
+      "p": "7.0%",
+      "population": "534,606"
+    },
+    {
+      "name": " Liechtenstein",
+      "internet": "37,201",
+      "p": "95.3%",
+      "population": "39,039"
+    },
+    {
+      "name": " Gibraltar",
+      "internet": "32,494",
+      "p": "99.5%",
+      "population": "32,669"
+    },
+    {
+      "name": " Marshall Islands",
+      "internet": "20,560",
+      "p": "48.9%",
+      "population": "42,050"
+    },
+    {
+      "name": " San Marino",
+      "internet": "20,100",
+      "p": "59.6%",
+      "population": "33,745"
+    },
+    {
+      "name": " Kiribati",
+      "internet": "16,971",
+      "p": "13.2%",
+      "population": "128,874"
+    },
+    {
+      "name": " British Virgin Islands",
+      "internet": "14,456",
+      "p": "46.4%",
+      "population": "31,122"
+    },
+    {
+      "name": " Anguilla",
+      "internet": "12,043",
+      "p": "76.4%",
+      "population": "15,753"
+    },
+    {
+      "name": " Nauru",
+      "internet": "6,475",
+      "p": "51.8%",
+      "population": "12,511"
+    },
+    {
+      "name": " Tuvalu",
+      "internet": "5,520",
+      "p": "49.3%",
+      "population": "11,204"
+    },
+    {
+      "name": " Saint Helena, Ascension and Tristan da Cunha",
+      "internet": "2,906",
+      "p": "53.8%",
+      "population": "5,404"
+    },
+    {
+      "name": " Falkland Islands",
+      "internet": "2,881",
+      "p": "76.5%",
+      "population": "3,764"
+    },
+    {
+      "name": " Montserrat",
+      "internet": "2,833",
+      "p": "64.1%",
+      "population": "4,417"
+    },
+    {
+      "name": " Wallis and Futuna",
+      "internet": "1,383",
+      "p": "11.9%",
+      "population": "11,627"
+    },
+    {
+      "name": " Niue",
+      "internet": "1,034",
+      "p": "53.4%",
+      "population": "1,937"
+    }
+  ]
