@@ -2,7 +2,7 @@
 
 https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users
 
-See Rating <a href="https://github.com/alisharify7/countries-internet-users/blob/main/rating.txt">CLick</a>
+See Rating Result <a href="https://github.com/alisharify7/countries-internet-users/blob/main/rating.txt">Click</a>
 
 ...
 
