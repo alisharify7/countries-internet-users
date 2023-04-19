@@ -20,7 +20,6 @@ def read_file(path : str) -> dict:
 
     with open(file=path) as f:
         data = json.load(f)
-        print(type(data))
 
         return data
 
