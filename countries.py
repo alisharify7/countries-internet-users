@@ -2,6 +2,7 @@ import os
 import json 
 import pathlib
 import matplotlib.pyplot as plt
+import tabulate
 
 BASE_DIR = pathlib.Path(__file__).parent
 data_path = "total.json"
@@ -24,6 +25,14 @@ def read_file(path : str) -> dict:
         return data
 
 
+def sort_data(x:list, y:list) -> list:
+    """
+        this function take x and y axis and sorted by number of usage
+    """
+    zipped = zip(x,y)
+    zipped = sorted(zipped, key= lambda each: each[1], reverse=True)
+    zipped = zip(range(1, len(x)+1), zipped)
+    return zipped
 
 def convert_data_2xy(data:list):
     """
@@ -48,6 +57,7 @@ def convert_data_2xy(data:list):
 
     return x ,y
 
+
 def show_plot(x:list, y:list, title:str, x_label:str, y_label:str,name):
     """
         this function take x and y axis and show a plot from that data
@@ -68,6 +78,7 @@ def show_plot(x:list, y:list, title:str, x_label:str, y_label:str,name):
 
 data = read_file(str(BASE_DIR.joinpath(data_path)))
 x,y = convert_data_2xy(data)
+sorted_data = sort_data(y=y, x=x)
 
 
 lenght = int(len(x)/8)
@@ -77,3 +88,10 @@ for i in range(lenght):
     y = y[8::]
 
 show_plot(x=x, y=y , x_label="countries ", y_label="internet users", title="internet usage based on population => by alisharify", name=save_folder.joinpath(str(i)+ ".jpg"))
+
+
+
+
+print(tabulate.tabulate(sorted_data, tablefmt="grid"))
+
+# data sources: https://restcountries.com/v3.1/all and wiki pedia :)
