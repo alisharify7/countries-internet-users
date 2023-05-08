@@ -38,6 +38,3 @@ See Rating Result <a href="https://github.com/alisharify7/countries-internet-use
 <img src='/result/24.jpg'>
 <img src='/result/25.jpg'>
 
-
-Todo: 
-    fix name datas ;/ in home
