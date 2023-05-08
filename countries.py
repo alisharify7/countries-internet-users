@@ -7,7 +7,7 @@ import tabulate
 BASE_DIR = pathlib.Path(__file__).parent
 data_path = "total.json"
 
-save_folder = BASE_DIR.joinpath("datas")
+save_folder = BASE_DIR.joinpath("result")
 
 def read_file(path : str) -> dict:
     """
