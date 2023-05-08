@@ -80,8 +80,8 @@ x,y = convert_data_2xy(data)
 sorted_data = sort_data(y=y, x=x)
 
 
-lenght = int(len(x)/8)
-for i in range(lenght):
+length = int(len(x)/8)
+for i in range(length):
     show_plot(x=x[0:8], y=y[0:8] , x_label="countries ", y_label="internet users", title="internet usage based on population => by alisharify", name=save_folder.joinpath(str(i)+ ".jpg"))
     x = x[8::]
     y = y[8::]
